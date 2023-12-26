@@ -109,7 +109,8 @@ texts-long_40 = 'Long'.
 
 set_column_texts(
 	im_fname = 'COLUMN'
-	im_texts = texts ).
+	im_texts = texts 
+).
 
 set_column_tech( 'TECH_COLUMN' ).
 
